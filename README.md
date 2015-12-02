@@ -249,3 +249,5 @@ Run `shotgun` and tweet away! You'll now be able to quit the server, change your
 
 ## Conclusion
 We now have the ability to persist data in our web applications - awesome job! 
+
+<a href='https://learn.co/lessons/sinatra-fwitter-3-databases' data-visibility='hidden'>View this lesson on Learn.co</a>
